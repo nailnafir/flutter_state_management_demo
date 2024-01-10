@@ -1,0 +1,1 @@
+ D:\\Sobat\ Mengkodingan\\Mobile\\Flutter\ State\ Management\\riverpod_future_stream_provider_demo\\.dart_tool\\flutter_build\\616942da648dcb338a5ac3b93446575a\\native_assets.yaml: 

@@ -1,0 +1,4 @@
+#Wed Jan 10 19:24:39 WIB 2024
+base.0=D\:\\Sobat Mengkodingan\\Mobile\\Flutter State Management\\riverpod_future_stream_provider_demo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
